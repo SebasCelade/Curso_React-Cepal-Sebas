@@ -1,0 +1,81 @@
+.All {
+  margin: 0px auto;
+  padding-bottom: 10px;
+  width: 80%;
+  height: 10%;
+  border: 5px solid;
+  border-color: #cc0000;
+}
+.Sebas {
+  padding: 5;
+  margin: 3%;
+  text-align: center;
+}
+.Name {
+  padding: 0;
+  height: 20px;
+}
+.Txt_name {
+  margin-top: 0px;
+}
+.Preferences {
+  margin: 0px auto;
+  margin-top: 0px;
+  height: 75px;
+  width: 94%;
+  padding-bottom: 55px;
+}
+.Bird {
+  display: inline-block;
+  width: 27%;
+  height: 130%;
+  padding-top: 20px;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background: url(https://thumbs.dreamstime.com/b/dos-eagles-calvo-7151499.jpg);
+  background-size: cover;
+}
+.Bird_name {
+  margin-top: 100px;
+  text-align: center;
+}
+.Animal {
+  display: inline-block;
+  width: 27%;
+  height: 130%;
+  padding-top: 20px;
+  margin-left: 5px;
+  margin-right: 20px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background: url(https://static9.depositphotos.com/1008660/1214/i/450/depositphotos_12144061-stock-photo-leopard-portrait.jpg);
+  background-size: cover;
+}
+.Animal_name {
+  margin-top: 100px;
+  text-align: center;
+}
+.Movie {
+  display: inline-block;
+  width: 27%;
+  height: 130%;
+  padding-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background: url(https://images.cdn1.buscalibre.com/fit-in/360x360/fe/eb/feeb7280bffe7d14eda9afec7937d11c.jpg);
+  background-size: cover;
+}
+.Movie_name {
+  margin-top: 100px;
+  text-align: center;
+}
